@@ -1,0 +1,312 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "21232f297a57a5a743894a0e4a801fc3",
+    "loginToken": "3b54a7711072cb70a953e3b3c6747675",
+    "logs": [
+      {
+        "time": "2023-03-24T00:04:01.228Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected java version \"18\" 2022-03-2. Please use Java 1.8.0"
+      },
+      {
+        "time": "2023-03-24T01:28:32.500Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected java version \"18\" 2022-03-2. Please use Java 1.8.0"
+      },
+      {
+        "time": "2023-03-24T01:32:47.387Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected java version \"18\" 2022-03-2. Please use Java 1.8.0"
+      },
+      {
+        "time": "2023-03-24T01:34:07.497Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected java version \"18\" 2022-03-2. Please use Java 1.8.0"
+      },
+      {
+        "time": "2023-03-24T01:40:39.698Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected java version \"18\" 2022-03-2. Please use Java 1.8.0"
+      },
+      {
+        "time": "2023-03-24T01:41:51.958Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected java version \"18\" 2022-03-2. Please use Java 1.8.0"
+      },
+      {
+        "time": "2023-03-24T01:42:49.197Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected java version \"18\" 2022-03-2. Please use Java 1.8.0"
+      },
+      {
+        "time": "2023-03-24T01:44:31.574Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected java version \"18\" 2022-03-2. Please use Java 1.8.0"
+      },
+      {
+        "time": "2023-03-24T01:46:20.012Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected java version \"18\" 2022-03-2. Please use Java 1.8.0"
+      },
+      {
+        "time": "2023-03-24T01:47:52.188Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected java version \"18\" 2022-03-2. Please use Java 1.8.0"
+      },
+      {
+        "time": "2023-03-24T02:04:02.015Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2023-03-24T02:04:15.424Z",
+        "type": "INFO",
+        "message": "750ae81e044a6bc9 Connected"
+      },
+      {
+        "time": "2023-03-24T02:05:17.864Z",
+        "type": "INFO",
+        "message": "750ae81e044a6bc9 Disconnected"
+      },
+      {
+        "time": "2023-03-24T02:05:19.093Z",
+        "type": "INFO",
+        "message": "750ae81e044a6bc9 Connected"
+      },
+      {
+        "time": "2023-03-24T02:05:24.336Z",
+        "type": "INFO",
+        "message": "750ae81e044a6bc9 Disconnected"
+      },
+      {
+        "time": "2023-03-24T02:05:28.453Z",
+        "type": "INFO",
+        "message": "750ae81e044a6bc9 Connected"
+      },
+      {
+        "time": "2023-03-24T02:06:24.463Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 750ae81e044a6bc9"
+      },
+      {
+        "time": "2023-03-24T02:06:34.854Z",
+        "type": "INFO",
+        "message": "Recieving sound309531107027283893.mp3 from 750ae81e044a6bc9"
+      },
+      {
+        "time": "2023-03-24T02:08:05.075Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 750ae81e044a6bc9"
+      },
+      {
+        "time": "2023-03-24T02:08:05.105Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2023-03-24T02:08:10.090Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 750ae81e044a6bc9"
+      },
+      {
+        "time": "2023-03-24T02:08:13.108Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 750ae81e044a6bc9"
+      },
+      {
+        "time": "2023-03-24T02:08:13.169Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2023-03-24T02:08:15.603Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 750ae81e044a6bc9"
+      },
+      {
+        "time": "2023-03-24T02:08:15.657Z",
+        "type": "INFO",
+        "message": "750ae81e044a6bc9 Disconnected"
+      },
+      {
+        "time": "2023-03-24T02:08:16.650Z",
+        "type": "INFO",
+        "message": "750ae81e044a6bc9 Connected"
+      },
+      {
+        "time": "2023-03-24T02:08:33.732Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 750ae81e044a6bc9"
+      },
+      {
+        "time": "2023-03-24T02:08:33.782Z",
+        "type": "INFO",
+        "message": "Recieving File From750ae81e044a6bc9"
+      },
+      {
+        "time": "2023-03-24T02:08:33.785Z",
+        "type": "SUCCESS",
+        "message": "File From750ae81e044a6bc9 Saved"
+      },
+      {
+        "time": "2023-03-24T02:09:06.442Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From 750ae81e044a6bc9"
+      },
+      {
+        "time": "2023-03-24T02:09:07.211Z",
+        "type": "SUCCESS",
+        "message": "750ae81e044a6bc9 Apps Updated"
+      },
+      {
+        "time": "2023-03-24T02:09:11.020Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From 750ae81e044a6bc9"
+      },
+      {
+        "time": "2023-03-24T02:09:11.070Z",
+        "type": "SUCCESS",
+        "message": "750ae81e044a6bc9 Apps Updated"
+      },
+      {
+        "time": "2023-03-24T02:09:16.052Z",
+        "type": "INFO",
+        "message": "Requested 0xWI From 750ae81e044a6bc9"
+      },
+      {
+        "time": "2023-03-24T02:09:17.254Z",
+        "type": "INFO",
+        "message": "Requested 0xWI From 750ae81e044a6bc9"
+      },
+      {
+        "time": "2023-03-24T02:09:21.151Z",
+        "type": "INFO",
+        "message": "Requested 0xWI From 750ae81e044a6bc9"
+      },
+      {
+        "time": "2023-03-24T02:09:30.484Z",
+        "type": "INFO",
+        "message": "Requested 0xPM From 750ae81e044a6bc9"
+      },
+      {
+        "time": "2023-03-24T02:09:30.496Z",
+        "type": "SUCCESS",
+        "message": "750ae81e044a6bc9 Permissions Updated"
+      },
+      {
+        "time": "2023-03-24T02:10:07.795Z",
+        "type": "INFO",
+        "message": "750ae81e044a6bc9 Disconnected"
+      },
+      {
+        "time": "2023-03-24T02:10:40.713Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2023-03-24T02:51:10.027Z",
+        "type": "INFO",
+        "message": "3d32ade2b291872f Connected"
+      },
+      {
+        "time": "2023-03-24T02:51:38.070Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 3d32ade2b291872f"
+      },
+      {
+        "time": "2023-03-24T02:51:40.552Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 3d32ade2b291872f"
+      },
+      {
+        "time": "2023-03-24T02:51:46.099Z",
+        "type": "INFO",
+        "message": "Requested 0xPM From 3d32ade2b291872f"
+      },
+      {
+        "time": "2023-03-24T02:51:46.111Z",
+        "type": "SUCCESS",
+        "message": "3d32ade2b291872f Permissions Updated"
+      },
+      {
+        "time": "2023-03-24T02:51:51.980Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 3d32ade2b291872f"
+      },
+      {
+        "time": "2023-03-24T02:52:18.009Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From 3d32ade2b291872f"
+      },
+      {
+        "time": "2023-03-24T02:52:18.309Z",
+        "type": "SUCCESS",
+        "message": "3d32ade2b291872f Apps Updated"
+      },
+      {
+        "time": "2023-03-24T02:52:34.728Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 3d32ade2b291872f"
+      },
+      {
+        "time": "2023-03-24T02:52:36.832Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 3d32ade2b291872f"
+      },
+      {
+        "time": "2023-03-24T02:53:07.210Z",
+        "type": "INFO",
+        "message": "3d32ade2b291872f Notification Recieved"
+      },
+      {
+        "time": "2023-03-24T02:53:42.951Z",
+        "type": "INFO",
+        "message": "Requested 0xWI From 3d32ade2b291872f"
+      },
+      {
+        "time": "2023-03-24T02:53:42.968Z",
+        "type": "SUCCESS",
+        "message": "3d32ade2b291872f WiFi Updated - 1 New WiFi Hotspots Found"
+      },
+      {
+        "time": "2023-03-24T02:54:06.985Z",
+        "type": "INFO",
+        "message": "3d32ade2b291872f Disconnected"
+      }
+    ],
+    "ipLog": []
+  },
+  "clients": [
+    {
+      "clientID": "750ae81e044a6bc9",
+      "firstSeen": "2023-03-24T02:04:15.400Z",
+      "lastSeen": "2023-03-24T02:10:07.797Z",
+      "isOnline": false,
+      "dynamicData": {
+        "clientIP": "192.168.146.121",
+        "clientGeo": {},
+        "device": {
+          "model": "SHARK KTUS-H0",
+          "manufacture": "blackshark",
+          "version": "9"
+        }
+      }
+    },
+    {
+      "clientID": "3d32ade2b291872f",
+      "firstSeen": "2023-03-24T02:51:09.975Z",
+      "lastSeen": "2023-03-24T02:54:06.988Z",
+      "isOnline": false,
+      "dynamicData": {
+        "clientIP": "192.168.146.121",
+        "clientGeo": {},
+        "device": {
+          "model": "G011A",
+          "manufacture": "google",
+          "version": "7.1.2"
+        }
+      }
+    }
+  ]
+}

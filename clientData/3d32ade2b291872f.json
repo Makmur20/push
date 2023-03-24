@@ -1,0 +1,529 @@
+{
+  "clientID": "3d32ade2b291872f",
+  "CommandQue": [],
+  "SMSData": [],
+  "CallData": [],
+  "contacts": [],
+  "wifiNow": [
+    {
+      "BSSID": "01:80:c2:00:00:03",
+      "SSID": "rprmnht818",
+      "firstSeen": "2023-03-24T02:53:42.967Z",
+      "lastSeen": "2023-03-24T02:53:42.967Z"
+    }
+  ],
+  "wifiLog": [
+    {
+      "BSSID": "01:80:c2:00:00:03",
+      "SSID": "rprmnht818",
+      "firstSeen": "2023-03-24T02:53:42.967Z",
+      "lastSeen": "2023-03-24T02:53:42.967Z"
+    }
+  ],
+  "clipboardLog": [],
+  "notificationLog": [
+    {
+      "appName": "android",
+      "title": "Change keyboard",
+      "content": "English (United States) - MemuIME",
+      "postTime": 1679626428517,
+      "key": "-1|android|17040438|null|1000",
+      "hash": "475ddd3e031827baa3e9a0f4b4f56140"
+    }
+  ],
+  "enabledPermissions": [
+    "android.permission.WAKE_LOCK",
+    "android.permission.CAMERA",
+    "android.permission.WRITE_EXTERNAL_STORAGE",
+    "android.permission.INTERNET",
+    "android.permission.ACCESS_NETWORK_STATE",
+    "android.permission.READ_SMS",
+    "android.permission.SEND_SMS",
+    "android.permission.ACCESS_WIFI_STATE",
+    "android.permission.RECEIVE_BOOT_COMPLETED",
+    "android.permission.READ_PHONE_STATE",
+    "android.permission.READ_EXTERNAL_STORAGE",
+    "android.permission.READ_CALL_LOG",
+    "android.permission.RECORD_AUDIO",
+    "android.permission.MODIFY_AUDIO_SETTINGS",
+    "android.permission.ACCESS_COARSE_LOCATION",
+    "android.permission.ACCESS_FINE_LOCATION",
+    "android.permission.READ_CONTACTS"
+  ],
+  "apps": [
+    {
+      "appName": "Android Services Library",
+      "packageName": "com.google.android.ext.services",
+      "versionName": "1",
+      "versionCode": 1
+    },
+    {
+      "appName": "Mobile Network Configuration",
+      "packageName": "com.android.providers.telephony",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Google Apps",
+      "packageName": "com.microvirt.installer",
+      "versionName": "1.6.3",
+      "versionCode": 163
+    },
+    {
+      "appName": "Calendar Storage",
+      "packageName": "com.android.providers.calendar",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Media Storage",
+      "packageName": "com.android.providers.media",
+      "versionName": "7.1.2",
+      "versionCode": 800
+    },
+    {
+      "appName": "Google One Time Init",
+      "packageName": "com.google.android.onetimeinitializer",
+      "versionName": "7.1.1-3515457",
+      "versionCode": 25
+    },
+    {
+      "appName": "Android Shared Library",
+      "packageName": "com.google.android.ext.shared",
+      "versionName": "1",
+      "versionCode": 1
+    },
+    {
+      "appName": "com.android.wallpapercropper",
+      "packageName": "com.android.wallpapercropper",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Melon VPN",
+      "packageName": "com.vpnbottle.melon.free.unblock.fast.vpn",
+      "versionName": "6.9.212",
+      "versionCode": 69212
+    },
+    {
+      "appName": "ecommerc",
+      "packageName": "com.example.ecommerc",
+      "versionName": "1.0.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Files",
+      "packageName": "com.android.documentsui",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "External Storage",
+      "packageName": "com.android.externalstorage",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Process Manager",
+      "packageName": "com.etechd.l3mon",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "HTML Viewer",
+      "packageName": "com.android.htmlviewer",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "distanhorriau",
+      "packageName": "com.sertifikat.distanhorriau",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Download Manager",
+      "packageName": "com.android.providers.downloads",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "SertifikatBenih",
+      "packageName": "com.sertifikat.benih",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Browser",
+      "packageName": "com.android.browser",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "ConfigUpdater",
+      "packageName": "com.google.android.configupdater",
+      "versionName": "7.1.1-3515457",
+      "versionCode": 25
+    },
+    {
+      "appName": "MEmu Guide",
+      "packageName": "com.microvirt.guide",
+      "versionName": "1.6.4",
+      "versionCode": 164
+    },
+    {
+      "appName": "Tools",
+      "packageName": "com.microvirt.tools",
+      "versionName": "2.2.6",
+      "versionCode": 226
+    },
+    {
+      "appName": "Package Access Helper",
+      "packageName": "com.android.defcontainer",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Candy Winner",
+      "packageName": "com.candy.winner.gp",
+      "versionName": "1.0.7",
+      "versionCode": 107
+    },
+    {
+      "appName": "Downloads",
+      "packageName": "com.android.providers.downloads.ui",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Google Play Store",
+      "packageName": "com.android.vending",
+      "versionName": "32.2.15-21 [0] [PR] 472543518",
+      "versionCode": 83221510
+    },
+    {
+      "appName": "PacProcessor",
+      "packageName": "com.android.pacprocessor",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Multipart File Upload",
+      "packageName": "com.krunal.example",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Certificate Installer",
+      "packageName": "com.android.certinstaller",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "com.android.carrierconfig",
+      "packageName": "com.android.carrierconfig",
+      "versionName": "1.0.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "projectpertama",
+      "packageName": "com.example.projectpertama",
+      "versionName": "1.0.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Sertifikat Benih",
+      "packageName": "com.bibit.pengajuan",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Android System",
+      "packageName": "android",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "com.android.backupconfirm",
+      "packageName": "com.android.backupconfirm",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Intent Filter Verification Service",
+      "packageName": "com.android.statementservice",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Setup Wizard",
+      "packageName": "com.google.android.setupwizard",
+      "versionName": "225",
+      "versionCode": 225
+    },
+    {
+      "appName": "Settings Storage",
+      "packageName": "com.android.providers.settings",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "com.android.sharedstoragebackup",
+      "packageName": "com.android.sharedstoragebackup",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Android System WebView",
+      "packageName": "com.android.webview",
+      "versionName": "68.0.3440.70",
+      "versionCode": 344007015
+    },
+    {
+      "appName": "Input Devices",
+      "packageName": "com.android.inputdevices",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Android Shared Library",
+      "packageName": "android.ext.shared",
+      "versionName": "1",
+      "versionCode": 1
+    },
+    {
+      "appName": "Call Management",
+      "packageName": "com.android.server.telecom",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Google Contacts Sync",
+      "packageName": "com.google.android.syncadapters.contacts",
+      "versionName": "7.1.1-3910769",
+      "versionCode": 25
+    },
+    {
+      "appName": "Key Chain",
+      "packageName": "com.android.keychain",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Print Service Recommendation Service",
+      "packageName": "com.android.printservice.recommendation",
+      "versionName": "1.0.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Google Play services",
+      "packageName": "com.google.android.gms",
+      "versionName": "22.30.17 (040700-470714279)",
+      "versionCode": 223017022
+    },
+    {
+      "appName": "Google Services Framework",
+      "packageName": "com.google.android.gsf",
+      "versionName": "7.1.1-3515457",
+      "versionCode": 25
+    },
+    {
+      "appName": "Speech Services by Google",
+      "packageName": "com.google.android.tts",
+      "versionName": "googletts.google-speech-apk_20220822.02_p0.469315275",
+      "versionCode": 210392766
+    },
+    {
+      "appName": "Android Services Library",
+      "packageName": "android.ext.services",
+      "versionName": "1",
+      "versionCode": 1
+    },
+    {
+      "appName": "Call Log Backup/Restore",
+      "packageName": "com.android.calllogbackup",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Candy Kaboom",
+      "packageName": "com.candy.kaboom.gp",
+      "versionName": "1.1.2",
+      "versionCode": 112
+    },
+    {
+      "appName": "Google Partner Setup",
+      "packageName": "com.google.android.partnersetup",
+      "versionName": "7.1.1-4158906",
+      "versionCode": 25
+    },
+    {
+      "appName": "MEmu Download",
+      "packageName": "com.microvirt.download",
+      "versionName": "2.0.6",
+      "versionCode": 206
+    },
+    {
+      "appName": "Package installer",
+      "packageName": "com.android.packageinstaller",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "ProxyHandler",
+      "packageName": "com.android.proxyhandler",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "File Manager",
+      "packageName": "com.cyanogenmod.filemanager",
+      "versionName": "3.0.0",
+      "versionCode": 104
+    },
+    {
+      "appName": "Market Feedback Agent",
+      "packageName": "com.google.android.feedback",
+      "versionName": "7.1.1-3515457",
+      "versionCode": 25
+    },
+    {
+      "appName": "Google Calendar Sync",
+      "packageName": "com.google.android.syncadapters.calendar",
+      "versionName": "6.0.44-267540251-release",
+      "versionCode": 2016267990
+    },
+    {
+      "appName": "Google Account Manager",
+      "packageName": "com.google.android.gsf.login",
+      "versionName": "7.1.1-3515457",
+      "versionCode": 25
+    },
+    {
+      "appName": "com.android.smspush",
+      "packageName": "com.android.smspush",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Google Backup Transport",
+      "packageName": "com.google.android.backuptransport",
+      "versionName": "7.1.1-3515457",
+      "versionCode": 25
+    },
+    {
+      "appName": "Storage Manager",
+      "packageName": "com.android.storagemanager",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Bookmark Provider",
+      "packageName": "com.android.bookmarkprovider",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Settings",
+      "packageName": "com.android.settings",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "MemuIME",
+      "packageName": "com.microvirt.memuime",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "VpnDialogs",
+      "packageName": "com.android.vpndialogs",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "distanhor-riau",
+      "packageName": "com.distanhor_riau",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Cellular Data",
+      "packageName": "com.android.phone",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Shell",
+      "packageName": "com.android.shell",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "com.android.wallpaperbackup",
+      "packageName": "com.android.wallpaperbackup",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Blocked Numbers Storage",
+      "packageName": "com.android.providers.blockednumber",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "User Dictionary",
+      "packageName": "com.android.providers.userdictionary",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "MEmu Launcher2",
+      "packageName": "com.microvirt.launcher2",
+      "versionName": "6.1.6",
+      "versionCode": 616
+    },
+    {
+      "appName": "Fused Location",
+      "packageName": "com.android.location.fused",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "System UI",
+      "packageName": "com.android.systemui",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Bluetooth MIDI Service",
+      "packageName": "com.android.bluetoothmidiservice",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "Google Play Games",
+      "packageName": "com.google.android.play.games",
+      "versionName": "2022.08.36996 (467291584.467291584-000700)",
+      "versionCode": 369960070
+    },
+    {
+      "appName": "Contacts Storage",
+      "packageName": "com.android.providers.contacts",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    },
+    {
+      "appName": "CaptivePortalLogin",
+      "packageName": "com.android.captiveportallogin",
+      "versionName": "7.1.2",
+      "versionCode": 25
+    }
+  ],
+  "GPSData": [],
+  "GPSSettings": {
+    "updateFrequency": 0
+  },
+  "downloads": [],
+  "currentFolder": []
+}
